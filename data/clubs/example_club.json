@@ -1,0 +1,17 @@
+{
+    "name": "Example Club",
+    "players": [
+      {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "chess_id": "AB12345",
+        "birthdate": "1990-01-01"
+      },
+      {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "chess_id": "CD67890",
+        "birthdate": "1995-05-15"
+      }
+    ]
+  }
