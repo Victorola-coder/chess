@@ -1,0 +1,15 @@
+{
+    "name": "Central Chess Club",
+    "players": [
+      {
+        "name": "Alice Smith",
+        "rating": 1500,
+        "club_id": 1
+      },
+      {
+        "name": "Bob Johnson",
+        "rating": 1800,
+        "club_id": 1
+      }
+    ]
+  }
